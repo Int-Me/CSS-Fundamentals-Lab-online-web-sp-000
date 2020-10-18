@@ -17,7 +17,7 @@ figcaption {
 nav {
  margin-left: 10px;
  margin-right: 10px;
- color: gray;
+ background-color: gray;
 }
 featured-property {
   width: 800px;
@@ -26,4 +26,7 @@ featured-property {
 details {
   display: block;
   float: left;
+}
+div {
+  background-color: 
 }
