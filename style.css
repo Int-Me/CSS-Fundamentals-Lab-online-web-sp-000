@@ -28,5 +28,7 @@ details {
   float: left;
 }
 div {
-  background-color: 
+  background-color: orange;
+  text-align: center;
+  width: 25%;
 }
