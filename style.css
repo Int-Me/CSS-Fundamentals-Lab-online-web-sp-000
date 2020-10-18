@@ -10,3 +10,8 @@ body {
 figure {
   align-items: center;
 }
+nav {
+ margin-left: 10px;
+ margin-right: 10px;
+ color: gray;
+}
